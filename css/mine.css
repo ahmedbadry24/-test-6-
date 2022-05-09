@@ -125,6 +125,7 @@ html {
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
+  background-attachment: fixed;
 }
 .landing .text {
   position: absolute;
